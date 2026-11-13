@@ -1,6 +1,8 @@
 # fomotren
 
-fomotren turns a workout program written in a chat into a daily plan on your Android phone. Your AI assistant helps write and revise the program. fomotren shows you what to do each day, guides you through workouts, and keeps your training history.
+One day I had an idea. What if I made a text format for workout plans instead of building AI into the app? Any AI chat could write a plan in that format. I could paste it into the app, and the app would sort out which workout goes on which day, what exercises to do, and how many sets and reps to aim for that week.
+
+That’s how fomotren started. I called the format TRN 1. Your AI chat helps write and revise the plan, and fomotren turns it into a daily schedule on your Android phone, guides you through workouts, and keeps your training history.
 
 ## How it works
 
