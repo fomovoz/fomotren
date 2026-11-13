@@ -1,9 +1,9 @@
 # fomotren
 
-Приложение для тренировок на Android 8.0 и новее. Показывает план на неделю, ведёт по упражнениям с голосовыми подсказками и таймером отдыха, сохраняет рабочие веса и замеры.
+A workout planner and tracker for Android 8.0 and later. See your weekly plan, follow workouts with spoken cues and a rest timer, and log your training weights and body measurements.
 
-Чтобы попробовать, открой [Releases](https://github.com/fomovoz/fomotren/releases), скачай APK из списка файлов и открой его на телефоне. Если Android попросит разрешить установку из браузера или файлового менеджера, включи разрешение для этого приложения. После установки открой пример программы или импортируй свою из текста либо файла.
+To try it, go to [Releases](https://github.com/fomovoz/fomotren/releases), download the APK, and open it on your phone. If Android asks for permission to install apps from your browser or file manager, allow it for that app. Once installed, open the sample program or import your own by pasting text or opening a file.
 
-Если на телефоне уже стоит тестовая сборка fomotren, сначала сохрани данные через «Программа» → «Резервная копия» → «Сохранить копию в файл». Если Android отклонит обновление из-за другой подписи, удали старую сборку после сохранения копии, установи новую и выбери «Загрузить из файла».
+If you already have a test build of fomotren on your phone, save a backup to a file from the Program tab before updating. If Android rejects the update because the APK is signed with a different key, uninstall the old build after saving the backup, install the new one, and restore your data from the backup file.
 
-Если что-то сломалось, напиши в [Issues](https://github.com/fomovoz/fomotren/issues). Укажи версию приложения, модель телефона, версию Android и шаги, на которых возникла проблема.
+Report problems in [Issues](https://github.com/fomovoz/fomotren/issues). Include the app version, your phone model, the Android version, and the steps that led to the problem.
